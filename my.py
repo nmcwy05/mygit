@@ -1,2 +1,1 @@
-print("developDefault")
 print("feature/my1 에서 추가")
